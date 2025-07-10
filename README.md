@@ -1,8 +1,9 @@
 # Model Card Generator – GitHub Action
 
-**Version:** 2025-07-09
+**Version:** 1.0.0
 
 Automatically create or update a `MODEL_CARD.md` for any Transformer-style model directory in your repository. The Action wraps an easy-to-use Python script that relies on **`transformers`**, **`torch`**, and **`jinja2`**.
+![Pitch illustration](assets/pitch.png)
 
 ---
 
